@@ -30,4 +30,4 @@ This implementation also includes optimized file handle management, data structu
 
 The Search module is a CLI, which accepts a query, fetches the posting list associated with each query term followed by an intersection of the Page Id's.
 
-The results are displayed in the decreasing order of the tf-idf values. (Page Ranks to yet to be incorporated)
+The results are displayed in the decreasing order of the tf-idf values. (Page Ranks to be included soon)
